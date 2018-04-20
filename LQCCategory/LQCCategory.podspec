@@ -7,11 +7,11 @@ Pod::Spec.new do |s|
   s.version      = "3.0.0"
   s.summary      = "LQCCategory."
   s.description  = "use for fun"
-  s.homepage     = "http://EXAMPLE/LQCCategory"
+  s.homepage     = "https://github.com/liangqicai-gitHub/LQCCategory"
   s.license      = "MIT"
   s.author       = { "liangqicai-gitHub" => "2468751795@qq.com" }
   s.platform     = :ios, "8.0"
-  s.source       = { :git => "http://EXAMPLE/LQCCategory.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/liangqicai-gitHub/LQCCategory.git", :tag => "#{s.version}" }
   s.source_files  = "LQCCategory/Core/**/*.{h,m}"
   # s.resource  = "icon.png"
   # s.resources = "Resources/*.png"
