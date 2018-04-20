@@ -8,7 +8,7 @@
 
 #import "UIView+SeparateLine.h"
 #import <objc/runtime.h>
-#import <Masonry.h>
+#import <Masonry/Masonry.h>
 
 
 @implementation UIView (SeparateLine)

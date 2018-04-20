@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.author       = { "liangqicai-gitHub" => "2468751795@qq.com" }
   s.platform     = :ios, "8.0"
   s.source       = { :git => "https://github.com/liangqicai-gitHub/LQCCategory.git", :tag => "#{s.version}" }
-  s.source_files  = "LQCCategory/Core/**/*.{h,m}"
+  s.source_files  = "Code/**/*.{h,m}"
   # s.resource  = "icon.png"
   # s.resources = "Resources/*.png"
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"

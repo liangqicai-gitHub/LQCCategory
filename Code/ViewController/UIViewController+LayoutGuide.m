@@ -7,7 +7,7 @@
 //
 
 #import "UIViewController+LayoutGuide.h"
-#import <Masonry.h>
+#import <Masonry/Masonry.h>
 
 @implementation UIViewController (LayoutGuide)
 
